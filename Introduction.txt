@@ -1,0 +1,1 @@
+This repository contains a basic mindapp application created using java , javaswing and awt!
